@@ -1,0 +1,25 @@
+PODS:
+  - Analytics (3.7.0)
+  - Leanplum-iOS-SDK (2.6.4)
+  - LeanplumSegment (1.1.3):
+    - Analytics (~> 3)
+    - Leanplum-iOS-SDK (~> 2)
+
+DEPENDENCIES:
+  - Analytics (~> 3.0)
+  - LeanplumSegment (~> 1.1.1)
+
+SPEC REPOS:
+  trunk:
+    - Analytics
+    - Leanplum-iOS-SDK
+    - LeanplumSegment
+
+SPEC CHECKSUMS:
+  Analytics: 77fd5fb102a4a5eedafa2c2b0245ceb7b7c15e45
+  Leanplum-iOS-SDK: a8f97c7cab22e95a6ff7724cf7f9976b9aae8b51
+  LeanplumSegment: 4a9e9ebb46f1cd73e36d1a4bdfff232cd81348a6
+
+PODFILE CHECKSUM: 2f62c03f2ea3b467fe0c293904527ef3d8ba8c7c
+
+COCOAPODS: 1.8.4
